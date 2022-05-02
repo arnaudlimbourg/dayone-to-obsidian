@@ -1,3 +1,7 @@
+---
+A more featureful version written by Edoardo can be found at https://github.com/edoardob90/dayone-to-obsidian
+---
+
 # dayone-to-obsidian
 Convert a [Day One](https://dayoneapp.com/) JSON export into individual entries for [Obsidian](https://obsidian.md). Each entry is created as a separate page.
 
